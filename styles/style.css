@@ -1,4 +1,6 @@
-
+a {
+	text-decoration: none;
+}
 
 .header_class {
     display: flex;
@@ -19,6 +21,10 @@
 	font-weight: 500;
 	font-size: 14px;
 	line-height: 20px;
+}
+
+.main_menu li a {
+	color: #18191F;
 }
 
 .main_title {
